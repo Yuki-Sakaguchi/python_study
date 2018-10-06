@@ -1,2 +1,2 @@
 # python_study
-pythonの勉強用のリポジトリ（「独学プログラマー」の内容）
+pythonの勉強用のリポジトリ
