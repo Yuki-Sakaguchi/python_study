@@ -4,7 +4,6 @@
 # F=前向き、B=後ろ向き
 caps0 = []
 caps1 = ['F', 'B', 'F', 'B', 'B', 'F', 'B', 'B', 'B', 'F', 'F', 'F', 'B', 'F']
-caps2 = ['F', 'F', 'B', 'B', 'B', 'F', 'B', 'H', 'B', 'B', 'F', 'F', 'H', 'F']
 
 def pleaseConformOnepass(caps):
     """
